@@ -1,0 +1,1 @@
+Using softmax activation function
