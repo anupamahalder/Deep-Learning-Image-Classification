@@ -1,0 +1,1 @@
+Using sigmoid activation function
